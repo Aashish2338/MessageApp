@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable_heart.png.flat",
+        "source": "com.message.messageapp-main-39:/drawable/heart.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.message.messageapp-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable_btn_bg_items.xml.flat",
+        "source": "com.message.messageapp-main-39:/drawable/btn_bg_items.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable_no_image.jpg.flat",
+        "source": "com.message.messageapp-main-39:/drawable/no_image.jpg"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable_bottom_bg.xml.flat",
+        "source": "com.message.messageapp-main-39:/drawable/bottom_bg.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.message.messageapp-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/layout_activity_splash_screen.xml.flat",
+        "source": "com.message.messageapp-main-39:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/layout_activity_create_message.xml.flat",
+        "source": "com.message.messageapp-main-39:/layout/activity_create_message.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/layout_contect_item_layout.xml.flat",
+        "source": "com.message.messageapp-main-39:/layout/contect_item_layout.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable_comments.png.flat",
+        "source": "com.message.messageapp-main-39:/drawable/comments.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "com.message.messageapp-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/layout_add_contact_number_layout.xml.flat",
+        "source": "com.message.messageapp-main-39:/layout/add_contact_number_layout.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable_add_icon.xml.flat",
+        "source": "com.message.messageapp-main-39:/drawable/add_icon.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable_search.xml.flat",
+        "source": "com.message.messageapp-main-39:/drawable/search.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/layout_activity_contact_list.xml.flat",
+        "source": "com.message.messageapp-main-39:/layout/activity_contact_list.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.message.messageapp-main-39:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.message.messageapp-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.message.messageapp-main-39:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
